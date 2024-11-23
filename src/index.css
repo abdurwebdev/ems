@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#task::-webkit-scrollbar
+{
+   display: none;
+}
+#all::-webkit-scrollbar
+{
+   display: none;
+}
+body::-webkit-scrollbar
+{
+   display: none;
+}
